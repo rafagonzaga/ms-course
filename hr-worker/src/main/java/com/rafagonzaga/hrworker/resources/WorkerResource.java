@@ -45,6 +45,7 @@ public class WorkerResource {
 		}
 		*/
 		
+		
 //		Simulando uma exceção
 //		int x = 1;
 //		if(x == 1) {
